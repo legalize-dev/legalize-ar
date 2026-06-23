@@ -53,6 +53,10 @@ Cada norma lleva en su frontmatter un campo `reform_quality` con el grado de fid
 
 Este repositorio es parte del proyecto **Legalize**, que mantiene legislación de múltiples países como repos git. Ver https://legalize.dev para el catálogo completo.
 
+## Apoyar
+
+Legalize es libre y gratuito. Si te resulta útil, puedes ayudar a financiar el hosting y el desarrollo: [Invítame a un café](https://buymeacoffee.com/legalizedev).
+
 ## Licencia
 
 - **Código del pipeline**: MIT (https://github.com/legalize-dev/legalize-pipeline)
