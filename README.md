@@ -55,7 +55,7 @@ Este repositorio es parte del proyecto **Legalize**, que mantiene legislación d
 
 ## Apoyar
 
-Legalize es libre y gratuito. Si te resulta útil, puedes ayudar a financiar el hosting y el desarrollo: [Invítame a un café](https://buymeacoffee.com/legalizedev).
+Legalize es libre y abierto. Si este trabajo te resulta útil, puedes ayudar a sostener su alojamiento y desarrollo: [Apoya este proyecto](https://buymeacoffee.com/legalizedev).
 
 ## Licencia
 
